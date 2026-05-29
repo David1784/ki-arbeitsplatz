@@ -1,0 +1,10 @@
+# Claude Code
+.claude/settings.local.json
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temporäre Dateien
+*.tmp
+*.log
