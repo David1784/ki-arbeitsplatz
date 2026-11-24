@@ -1,3 +1,10 @@
+# Repo ist öffentlich: Standardmäßig wird ALLES ignoriert.
+# Nur ausdrücklich freigegebene Dateien (ohne Kunden-, Eigentümer- oder Kontodaten)
+# werden versioniert. Freigabe per "!Dateiname" unten ergänzen.
+*
+!.gitignore
+!README.md
+
 # Claude Code
 .claude/settings.local.json
 
